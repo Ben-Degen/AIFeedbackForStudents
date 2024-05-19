@@ -1,0 +1,68 @@
+{
+    "Feeding_Up_Prompts": //Where am I going?
+    [
+        "Feeding_Up_Prompts_Task_Level"
+            {
+            "Success in this task will look like (exemplar/model)"
+            "They key criteria for success are (...)"
+            "We are looking for (...)"
+            }
+        "Feeding_Up_Prompts_Process_Level"
+            {
+            "The key ideas/concepts in this task are (...)"
+            "These ideas/concepts are related by (...)"
+            "Key questions you could ask about this task are (...)"
+            "Skills you will need in this task are (...)"
+            "Strategies you will need in this task are (...)"
+            }
+        "Feeding_Up_Prompts_SelfRegulatory_Level"
+            {
+            "How will you use the learning intention?"
+            "How could you use the success criteria?"
+            "Which other ways could you monitor your work?"
+            }
+   ]
+    "Feeding_Back_Prompts": //How am I going?
+    [
+        "Feeding_Back_Prompts_Task_Level"
+            {
+            "You have/haven't met the learning intention by (...)"
+            "You have/haven't met the success criteria by (...)"
+            "Your answer/work is/isn't what we are looking for because (...)"
+            }
+        "Feeding_Back_Prompts_Process_Level"
+            {
+            "Your understanding of the ideas/concepts within this task is (...)"
+            "Your thinking about this task is (...)"
+            "You demonstrated (...) skills to a (...) level"
+            "You used (...) strategies to a (...) level.
+            }
+        "Feeding_Back_Prompts_SelfRegulatory_Level"
+            {
+            "Are you on track with your work? How do you know?"
+            "To which level are you satisfying the success criteria?"
+            "Are you on track to achieving our goal? How do you know?"
+            }
+   ]
+    "Feeding_Forward_Prompts": //What do I have to do next?
+    [
+        "Feeding_Forward_Prompts_Task_Level"
+            {
+            "To fully meet the learning intention you could (...)"
+            "Addressing the following success criteria would improve your work (...)"
+            "Adding/removing (...) would improve your work."
+            }
+        "Feeding_Forward_Prompts_Process_Level"
+            {
+            "You could improve your understanding of (...) concepts by (...)"
+            "Thinking further about (...) could improve your work by (...)"
+            "Cou yould improve your (...) skills by (...)"
+            }
+        "Feeding_Forward_Prompts_SelfRegulatory_Level"
+            {
+            "How could you deepen your understandings?"
+            "How could you improve your work?"
+            "What is the next step for your learning? How do you know?"
+            }
+   ]
+}
